@@ -8,3 +8,4 @@
 - [ ] https://lxchuan12.gitee.io/axios/#_1-%E5%89%8D%E8%A8%80
 - [ ] babel架构
 - [ ] sm-crypto兼容ie8
+- [ ] 访问者模式 [访问者模式一篇就够了](https://www.jianshu.com/p/1f1049d0a0f4)
