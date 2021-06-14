@@ -6,3 +6,5 @@
 - [ ] 利用ELement组件库中El-form的思想实现了一个Descriptions组件、
 - [ ] 总结移动相关知识
 - [ ] https://lxchuan12.gitee.io/axios/#_1-%E5%89%8D%E8%A8%80
+- [ ] babel架构
+- [ ] sm-crypto兼容ie8
