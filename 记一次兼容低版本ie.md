@@ -18,3 +18,6 @@
 4. browserslist
 
 ## ES5 兼容 ES3
+
+1. 部分方法(Object.defineProperty、Array.isArray、Object.create)为转换
+2. 关键字转化为字符串
