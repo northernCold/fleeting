@@ -9,3 +9,6 @@
 - [ ] babel架构
 - [ ] sm-crypto兼容ie8
 - [ ] 访问者模式 [访问者模式一篇就够了](https://www.jianshu.com/p/1f1049d0a0f4)
+- [ ] 按需加载 tree-shaking
+- [ ] mvvm的vm是什么 https://juejin.cn/post/6844903929298288647#heading-0
+- [ ] 精读[你的Tree-Shaking并没什么卵用](https://juejin.cn/post/6844903549290151949#heading-0)
