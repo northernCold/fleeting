@@ -1,6 +1,5 @@
 日常记录信息.md
 babel处理流程.md
-前端安全-xss.md
 前端安全-csrf.md
 高质量博客.md
 20210521171553.md
@@ -11,7 +10,8 @@ Task-List.md
 axios解析.md
 tsl四次握手.md
 记一次jquery项目工程化.md
-tree-shaking.md
 package.json
 组件库如何做到按需引入.md
-浏览器缓存.md
+tree-shaking.md
+前端安全-xss.md
+资源文件的命名规则.md
